@@ -80,7 +80,7 @@ Breaking large or complex tasks into smaller manageable chunks.
 
 #### Universal Prompt Structure → Good: Clear, generic but effective.
 
-### Prompt Refinement (Size Limitations) → Excellent: Manages complexity by chunking.
+#### Prompt Refinement (Size Limitations) → Excellent: Manages complexity by chunking.
 
 ### Result:
 
